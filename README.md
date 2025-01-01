@@ -46,7 +46,7 @@ bun dev
 
 ## 🌐 Deployment
 
-- **Frontend**: Deployed on [Vercel](https://animal-feed-ecommerce-4nrp.vercel.app/).
+- **Frontend**: Deployed Niquos animal feed ecommerce on=>[Vercel](https://animal-feed-ecommerce-4nrp.vercel.app/).
 
 - **Addisu-Etana** (@Addisu) - 
 
