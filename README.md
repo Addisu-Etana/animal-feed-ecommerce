@@ -1,10 +1,12 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Niquos-animal-feed-ecommerce
+ Welcome to **Niquos animal feed ecommerce ** ,This platform is a dedicated animal feed e-commerce solution,specifically designed to meet the needs of Ethiopia’s agricultural and livestock community.
+![Niquos-animal-feed-ecommerce](https://github.com/Addisu-Etana/animal-feed-ecommerce)
 
-## Getting Started
 
 First, run the development server:
 
 ```bash
+cd niquos animal feed ecommerce
 npm run dev
 # or
 yarn dev
@@ -13,24 +15,56 @@ pnpm dev
 # or
 bun dev
 ```
+## 🛠️  Technologies
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Frontend
+- **Next.js 14**: For a powerful and scalable React-based framework.
+- **Tailwind CSS**: To style the application with utility-first CSS.
+- **Stripe**: For secure and seamless payment integration
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+### Steps
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+1. **Clone the repository**:
+   ```sh
+   git clone https://github.com/Addisu-Etana/animal-feed-ecommerce.git
+   ```
 
-## Learn More
+2. **Install dependencies**:
+   ```sh
+   cd niquos-animal-feed-ecommerce
+   npm install
+   ```
 
-To learn more about Next.js, take a look at the following resources:
+3. **Run the development server**:
+   ```sh
+   npm run dev
+   ```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+4. **Open your browser and visit**:
+   [http://localhost:3000](http://localhost:3000)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+## 🌐 Deployment
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- **Frontend**: Deployed on [Vercel](https://animal-feed-ecommerce-4nrp.vercel.app/).
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- **Addisu-Etana** (@Addisu) - 
+
+  [<img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=plastic&logo=twitter&logoColor=white"/>](https://x.com/addisu_etana)
+  [<img src="https://img.shields.io/badge/Linkedin-0A66C2.svg?&style=plastic&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/addisu-etana-117258252/)
+  [<img src="https://img.shields.io/badge/GitHub-181717.svg?&style=plastic&logo=github&logoColor=white"/>](https://github.com/Addisu-Etana)
+  [<img src="https://img.shields.io/badge/Facebook-blue">](https://www.facebook.com/addisuzola)
+  [<img src="https://img.shields.io/badge/Telegram-Blue">](https://www.t.me/addisuzola)
+
+
+
+
+
+
+
+
+
+
+
+
+
