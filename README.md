@@ -1,6 +1,6 @@
 ## Niquos-animal-feed-ecommerce
  Welcome to **Niquos animal feed ecommerce ** ,This platform is a dedicated animal feed e-commerce solution,specifically designed to meet the needs of Ethiopia’s agricultural and livestock community.
-  [Niquos-animal-feed-ecommerce](https://github.com/Addisu-Etana/animal-feed-ecommerce)
+  - [Niquos-animal-feed-ecommerce](https://github.com/Addisu-Etana/animal-feed-ecommerce)
 
 
 First, run the development server:
