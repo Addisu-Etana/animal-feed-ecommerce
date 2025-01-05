@@ -41,8 +41,8 @@ function Slider() {
             />
           </CarouselItem>
         </CarouselContent>
-        <CarouselPrevious className=" hover:bg-green-200 rounded-full" />
-        <CarouselNext className=" hover:bg-green-200 rounded-full" />
+        <CarouselPrevious className=" hover:bg-green-200 rounded-full w-10 h-10 text-white bg-black" />
+        <CarouselNext className=" hover:bg-green-200 rounded-full w-10 h-10 text-white bg-black" />
       </Carousel>
     </div>
   );

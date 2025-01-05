@@ -24,7 +24,7 @@ export default function Home() {
         alt="banner"
         width={1000}
         height={100}
-        className="w-full h-[400px] sm:h-[350px] md:h-[400px] lg:h-[450px] object-cover mt-5 "
+        className="object-cover mt-5w-full h-[400px] sm:h-[350px] md:h-[400px] lg:h-[450px]"
       />
       <div>
         {/*foote*/}
