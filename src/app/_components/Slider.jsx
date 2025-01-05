@@ -10,9 +10,9 @@ import {
 
 function Slider() {
   return (
-    <div className="relative w-full max-w-6xl mx-auto h-[400px] px-10 sm:px-10 md:px-9">
-      <Carousel className="relative w-full h-full ">
-        <CarouselContent className="flex items-center">
+    <div className="relative w-full max-w-6xl mx-auto px-20 mt-5 ">
+      <Carousel className="relative w-full h-full">
+        <CarouselContent>
           <CarouselItem>
             <Image
               src="/taking-care-lambs-sheep-farm.jpg"
@@ -41,8 +41,8 @@ function Slider() {
             />
           </CarouselItem>
         </CarouselContent>
-        <CarouselPrevious className="absolute top-1/2 -translate-y-1/2 left-3 sm:left-5 md:left-7 lg:left-8 p-2 hover:bg-green-200 roundeed-full" />
-        <CarouselNext className="absolute top-1/2 -translate-y-1/2 right-3 sm:right-5 md:right-7 lg:right-8  p-2 hover:bg-green-200 rounded-full" />
+        <CarouselPrevious className=" hover:bg-green-200 rounded-full" />
+        <CarouselNext className=" hover:bg-green-200 rounded-full" />
       </Carousel>
     </div>
   );

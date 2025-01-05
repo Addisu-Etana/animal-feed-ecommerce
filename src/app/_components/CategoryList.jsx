@@ -10,7 +10,7 @@ import { HealthiconsAnimalCowOutline } from "@/components/ui/HealthiconsAnimalCo
 
 function CategoryList() {
   return (
-    <div className=" text-primary sm:mt-4 md:mt-4">
+    <div className=" text-primary mt-5 sm:mt-7 md:mt-4">
       <div>
         <h2 className="text-primary font-bold text-2xl px-10 sm:px-10 mb-2 sm:mb-4">
           {" "}
@@ -18,7 +18,7 @@ function CategoryList() {
         </h2>
       </div>
       {/* Enclosing container for all icons */}
-      <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-7 gap-4 cursor-pointer px-10 sm:px-10 md:px-10">
+      <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-7 gap-4 cursor-pointer mt-5 px-10 sm:px-10 md:px-10">
         {/*  each item in the grid*/}
         <div className="flex flex-col items-center bg-green-50 gap-2 p-4 rounded-lg hover:scale-75 transition-all ease-in-out hover:bg-blue-300">
           <NotoMedicalSymbol style={{ width: "50px", height: "50px" }} />
