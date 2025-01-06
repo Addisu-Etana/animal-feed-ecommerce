@@ -22,7 +22,7 @@ function Header() {
     <div className="p-5 shadow-sm flex justify-between bg-white z-50">
       <div className="flex items-center gap-8">
         <Image
-          src="/animal feed logo.png"
+          src="/popular-product/logo-niquos-animalFeed.jpg"
           alt="logo"
           width={180}
           height={100}
